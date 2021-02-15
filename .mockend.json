@@ -1,0 +1,10 @@
+{
+	"Order": {
+				"OrderNumber": "string",
+				"MaterialNumber": "string",
+				"ManufacturerCode": "string",
+				"CustomerCode": "string",
+				"ErrorMessage": "string",
+				"Environment": "string",
+	}
+}
